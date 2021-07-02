@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Emilio Degiovanni
 
-- 🔭 I’m currently working on Cognizant Softvision from Argentina
-- 🌱 I’m currently learning node.js
+I am 19+ years of experience working in a row. I've been coding, learning and developing many systems, applications and websites for different sort of companies, clients and necessities. Currently, I'm working as a Sr Frontend developer in Cognizant Softvision over Angular 8+.
 
-I have a personal web page at [developtus.com](https://developtus.com) with a lot of information about me but is only in spanish for now.
+> 🌱 I’m currently learning node.js
+
+I have a personal web page at [developtus.com](https://developtus.com) with a lot of information about me, but is only in spanish for now.
 
 ## Social networking
 
@@ -18,4 +19,5 @@ Always free and personal time is important. In my personal case I prefer
 - 👨‍👨‍👧‍👧 Family and friends
 - 🚵‍♂️ Cycling (swimming stopped by COVID-19)
 - 🍝 Cocking
+- Fan of coffee ☕ and mate 🧉 (south american's blend)
 - [📚 Reading](https://www.goodreads.com/user/show/23667895-degiovanni-emilio)
