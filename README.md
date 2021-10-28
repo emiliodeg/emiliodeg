@@ -6,6 +6,10 @@ I am 19+ years of experience working in a row. I've been coding, learning and de
 
 I have a personal web page at [developtus.com](https://developtus.com) with a lot of information about me, but is only in spanish for now.
 
+## Small projects
+
+- [Collatz numbers generator app](https://emiliodeg.github.io/collatz-app/)
+
 ## Social networking
 
 - [Linkedin: emiliodeg](https://linkedin.com/in/emiliodeg)
