@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Emilio Degiovanni
 
-I am 19+ years of experience working in a row. I've been coding, learning and developing many systems, applications and websites for different sort of companies, clients and necessities. Currently, I'm working as a Sr Frontend developer in Cognizant Softvision over Angular 8+.
+I am 19+ years of experience working in a row. I've been coding, learning and developing many systems, applications and websites for different sort of companies, clients and necessities. Currently, I'm working as a Sr Frontend developer in Aquiva Labs a partner of Salesforce.
 
-> 🌱 I’m currently learning node.js
+> 🌱 I’m currently learning node.js and Salesforcec CRM
 
 I have a personal web page at [developtus.com](https://developtus.com) with a lot of information about me, but is only in spanish for now.
 
