@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emilio Degiovanni
+# Hi there 👋 I'm Emilio Degiovanni
 
 I am 19+ years of experience working in a row. I've been coding, learning and developing many systems, applications and websites for different sort of companies, clients and necessities. Currently, I'm working as a Sr Frontend developer in Aquiva Labs a partner of Salesforce.
 
@@ -8,7 +8,8 @@ I have a personal web page at [developtus.com](https://developtus.com) with a lo
 
 ## Small projects
 
-- [Collatz numbers generator app](https://emiliodeg.github.io/collatz-app/)
+- [Prettier RC file generator app](https://emiliodeg.github.io/prettierrc)
+- [Collatz numbers generator app](https://emiliodeg.github.io/collatz-app)
 
 ## Social networking
 
