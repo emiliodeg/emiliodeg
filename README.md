@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Emilio Degiovanni
 
-Fulltime Senior Frontend Developer. I'm specialized on Angular and Material/Kendo. Javascript, Typescript, RxJs, Redux (Ngrx/Ngxs), Jasmine/Jest, CSS/SCSS/SASS and HTML.
+Fulltime Senior Frontend Engineer (WFH 🛜). I'm specialized on Angular and Material/Kendo. JavaScript/Typescript, RxJs, Redux (Ngrx/Ngxs), Unit test with Jasmine/Jest, CSS/SCSS/SASS and HTML.
 
 I love clean code, SOLID, DRY and KISS principles. In my opinion, they are the foundations of reusable, scalable and well done applications.
 
-Currentl, I'm working for Double Nines' angular projects. I worked for Aquiva Labs, Cognizant Softvision and Globant. I've been developing SPA applications all these time, and doing bug fixing, unit test, mentoring and coaching of junior people, and helping with technical interviews for new candidates.
+I currently work for EPAM in the American health industry. I've also worked for Byte Factory, Double Nines, Aquiva Labs, Cognizant Softvision, and Globant. I've developed and designed SPA applications for a long time, fixing bugs, conducting unit tests, mentoring and coaching people, and helping with technical interviews for new candidates.
 
 Previously of that companies, I used to be a freelancer developer for almost 17 years. I developed a many projects for many clients. I based all my work as Fullstack PHP developer. Furthermore, I used to develop with Zend framework and Phalcon.
 
@@ -23,6 +23,7 @@ I have a personal web page at [developtus.com](https://developtus.com) with a lo
 ## Social networking
 
 - [Linkedin: emiliodeg](https://linkedin.com/in/emiliodeg)
+- [LeetCode](https://leetcode.com/u/emiliodeg/) 
 - [@emiliodeg](https://twitter.com/@emiliodeg)
 - [Code wars](https://www.codewars.com/users/emiliodeg) 
 
