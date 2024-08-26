@@ -25,7 +25,9 @@ I have a personal web page at [developtus.com](https://developtus.com) with a lo
 - [Linkedin: emiliodeg](https://linkedin.com/in/emiliodeg)
 - [LeetCode](https://leetcode.com/u/emiliodeg/) 
 - [@emiliodeg](https://twitter.com/@emiliodeg)
-- [Code wars](https://www.codewars.com/users/emiliodeg) 
+- [Code wars](https://www.codewars.com/users/emiliodeg)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/emiliodeg?theme=auto&font=&extension=activity)
 
 ### Free time
 
