@@ -27,8 +27,6 @@ I have a personal web page at [developtus.com](https://developtus.com) with a lo
 - [@emiliodeg](https://twitter.com/@emiliodeg)
 - [Code wars](https://www.codewars.com/users/emiliodeg)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/emiliodeg?theme=auto&font=&extension=activity)
-
 ### Free time
 
 Always free and personal time is important. In my personal case I'd rather
