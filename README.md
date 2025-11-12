@@ -16,7 +16,7 @@ I have a personal web page at [developtus.com](https://developtus.com) with a lo
 
 ## Small projects
 
-- [Lexy - your private AI browser summarizer](https://lexyai.netlify.com)
+- [Lexy - your private AI browser summarizer](https://lexyai.netlify.app/)
 - [Prettier RC file generator app](https://emiliodeg.github.io/prettierrc)
 - [Collatz numbers generator app](https://emiliodeg.github.io/collatz-app)
 
